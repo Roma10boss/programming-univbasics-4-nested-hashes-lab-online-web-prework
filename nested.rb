@@ -24,7 +24,7 @@ def alan_kay_is_known_for
 	
 	programmer_hash = 
  	
-       expected: {:known_for=>"COBOL", :languages=>["COBOL", "FORTRAN"]}
+       alan_kay: {:known_for=>"COBOL", :languages=>["COBOL", "FORTRAN"]}
             got: {:alan_kay=>{:known_for=>"Object Orientation", :languages=>["Smalltalk", "LISP"]}, :dennis_ritchie=>{...>"Unix", :languages=>["C"]}, :grace_hopper=>{:known_for=>"COBOL", :languages=>["COBOL", "FORTRAN"]}}
 
 end
