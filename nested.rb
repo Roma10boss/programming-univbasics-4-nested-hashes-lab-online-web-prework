@@ -31,7 +31,11 @@ def alan_kay_is_known_for
 	    :languages=>["C"]}, 
 	    :grace_hopper=>{
 	      :known_for=>"COBOL", 
-	      :languages=>["COBOL", "FORTRAN"]}}
+	      :languages=>["COBOL", "FORTRAN"]
+	      
+	    }
+	    
+	  }
 
 end
 
